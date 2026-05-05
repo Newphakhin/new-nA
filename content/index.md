@@ -1,13 +1,9 @@
-# Welcome to My Knowledge Base
+# AI & Machine Learning Engineering Knowledge Base
 
-This is my personal digital garden, hosted with Obsidian and Quartz.
+**หลักสูตร 15 สัปดาห์ (15-Week Curriculum):**
 
-### Collections
-
-- [[ml_knowledge/Home|Machine Learning Engineering Curriculum]]
-- [[ml_knowledge/Setup Guide|Setup Guide]]
-- [[Notes/index|General Notes]] (Coming Soon)
-- [[Projects/index|Projects]] (Coming Soon)
-
----
-*Created with [Quartz](https://quartz.jzhao.xyz/)*
+- [[ml_knowledge/Phase 1 - Foundations & Classical Machine Learning/index|Phase 1 - Foundations & Classical Machine Learning]]
+- [[ml_knowledge/Phase 2 - Deep Learning & Unstructured Data/index|Phase 2 - Deep Learning & Unstructured Data]]
+- [[ml_knowledge/Phase 3 - Generative AI & Application Building/index|Phase 3 - Generative AI & Application Building]]
+- [[ml_knowledge/Phase 4 - Production, MLOps & System Design/index|Phase 4 - Production, MLOps & System Design]]
+- [[ml_knowledge/Phase 5 - Capstone/index|Phase 5 - Capstone]]
