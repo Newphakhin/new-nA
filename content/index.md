@@ -4,8 +4,8 @@ This is my personal digital garden, hosted with Obsidian and Quartz.
 
 ### Collections
 
-- [Machine Learning Engineering Curriculum](ml_knowledge/Home)
-- [Setup Guide](ml_knowledge/Setup-Guide)
+- [Machine Learning Engineering Curriculum](Home)
+- [Setup Guide](Setup-Guide)
 - [General Notes](Notes/index) (Coming Soon)
 - [Projects](Projects/index) (Coming Soon)
 
